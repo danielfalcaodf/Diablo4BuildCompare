@@ -1,0 +1,23 @@
+import { ComponentFixture, TestBed } from '@angular/core/testing';
+
+import { BuildSearchComponent } from './build-search.component';
+
+describe('BuildSearchComponent', () => {
+  let component: BuildSearchComponent;
+  let fixture: ComponentFixture<BuildSearchComponent>;
+
+  beforeEach(async () => {
+    await TestBed.configureTestingModule({
+      imports: [BuildSearchComponent]
+    })
+    .compileComponents();
+    
+    fixture = TestBed.createComponent(BuildSearchComponent);
+    component = fixture.componentInstance;
+    fixture.detectChanges();
+  });
+
+  it('should create', () => {
+    expect(component).toBeTruthy();
+  });
+});

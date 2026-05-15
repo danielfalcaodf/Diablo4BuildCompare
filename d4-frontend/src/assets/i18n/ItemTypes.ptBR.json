@@ -1,0 +1,1870 @@
+[
+  {
+    "Name": "Amuleto Comum",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amuleto Mágico",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amuleto Raro",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amuleto Lendário",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amuleto Único",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amuleto Comum Sagrado",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amuleto Mágico Sagrado",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amuleto Raro Sagrado",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amuleto Lendário Sagrado",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amuleto Único Sagrado",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amuleto Comum Ancestral",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amuleto Mágico Ancestral",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amuleto Raro Ancestral",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amuleto Lendário Ancestral",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amuleto Único Ancestral",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Machado Comum",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado Mágico",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado Raro",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado Lendário",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado Único",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado Comum Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado Mágico Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado Raro Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado Lendário Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado Único Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado Comum Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado Mágico Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado Raro Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado Lendário Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado Único Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado (corte) Comum",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado (corte) Mágico",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado (corte) Raro",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado (corte) Lendário",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado (corte) Único",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado (corte) Comum Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado (corte) Mágico Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado (corte) Raro Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado (corte) Lendário Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado (corte) Único Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado (corte) Comum Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado (corte) Mágico Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado (corte) Raro Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado (corte) Lendário Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado (corte) Único Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de Duas Mãos Comum",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de Duas Mãos Mágico",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de Duas Mãos Raro",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de Duas Mãos Lendário",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de Duas Mãos Único",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de Duas Mãos Comum Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de Duas Mãos Mágico Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de Duas Mãos Raro Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de Duas Mãos Lendário Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de Duas Mãos Único Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de Duas Mãos Comum Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de Duas Mãos Mágico Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de Duas Mãos Raro Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de Duas Mãos Lendário Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de Duas Mãos Único Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de duas mãos (corte) Comum",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de duas mãos (corte) Mágico",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de duas mãos (corte) Raro",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de duas mãos (corte) Lendário",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de duas mãos (corte) Único",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de duas mãos (corte) Comum Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de duas mãos (corte) Mágico Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de duas mãos (corte) Raro Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de duas mãos (corte) Lendário Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de duas mãos (corte) Único Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de duas mãos (corte) Comum Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de duas mãos (corte) Mágico Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de duas mãos (corte) Raro Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de duas mãos (corte) Lendário Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Machado de duas mãos (corte) Único Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Botas Comuns",
+    "Type": "boots"
+  },
+  {
+    "Name": "Botas Mágicas",
+    "Type": "boots"
+  },
+  {
+    "Name": "Botas Raras",
+    "Type": "boots"
+  },
+  {
+    "Name": "Botas Lendárias",
+    "Type": "boots"
+  },
+  {
+    "Name": "Botas Únicas",
+    "Type": "boots"
+  },
+  {
+    "Name": "Botas Comuns Sagradas",
+    "Type": "boots"
+  },
+  {
+    "Name": "Botas Mágicas Sagradas",
+    "Type": "boots"
+  },
+  {
+    "Name": "Botas Raras Sagradas",
+    "Type": "boots"
+  },
+  {
+    "Name": "Botas Lendárias Sagradas",
+    "Type": "boots"
+  },
+  {
+    "Name": "Botas Únicas Sagradas",
+    "Type": "boots"
+  },
+  {
+    "Name": "Botas Comuns Ancestrais",
+    "Type": "boots"
+  },
+  {
+    "Name": "Botas Mágicas Ancestrais",
+    "Type": "boots"
+  },
+  {
+    "Name": "Botas Raras Ancestrais",
+    "Type": "boots"
+  },
+  {
+    "Name": "Botas Lendárias Ancestrais",
+    "Type": "boots"
+  },
+  {
+    "Name": "Botas Únicas Ancestrais",
+    "Type": "boots"
+  },
+  {
+    "Name": "Arco Comum",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arco Mágico",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arco Raro",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arco Lendário",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arco Único",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arco Comum Sagrado",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arco Mágico Sagrado",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arco Raro Sagrado",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arco Lendário Sagrado",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arco Único Sagrado",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arco Comum Ancestral",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arco Mágico Ancestral",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arco Raro Ancestral",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arco Lendário Ancestral",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arco Único Ancestral",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Peitoral Comum",
+    "Type": "chest"
+  },
+  {
+    "Name": "Peitoral Mágico",
+    "Type": "chest"
+  },
+  {
+    "Name": "Peitoral Raro",
+    "Type": "chest"
+  },
+  {
+    "Name": "Peitoral Lendário",
+    "Type": "chest"
+  },
+  {
+    "Name": "Peitoral Único",
+    "Type": "chest"
+  },
+  {
+    "Name": "Peitoral Comum Sagrado",
+    "Type": "chest"
+  },
+  {
+    "Name": "Peitoral Mágico Sagrado",
+    "Type": "chest"
+  },
+  {
+    "Name": "Peitoral Raro Sagrado",
+    "Type": "chest"
+  },
+  {
+    "Name": "Peitoral Lendário Sagrado",
+    "Type": "chest"
+  },
+  {
+    "Name": "Peitoral Único Sagrado",
+    "Type": "chest"
+  },
+  {
+    "Name": "Peitoral Comum Ancestral",
+    "Type": "chest"
+  },
+  {
+    "Name": "Peitoral Mágico Ancestral",
+    "Type": "chest"
+  },
+  {
+    "Name": "Peitoral Raro Ancestral",
+    "Type": "chest"
+  },
+  {
+    "Name": "Peitoral Lendário Ancestral",
+    "Type": "chest"
+  },
+  {
+    "Name": "Peitoral Único Ancestral",
+    "Type": "chest"
+  },
+  {
+    "Name": "Besta Comum",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Besta Mágica",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Besta Rara",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Besta Lendária",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Besta Única",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Besta Comum Sagrada",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Besta Mágica Sagrada",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Besta Rara Sagrada",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Besta Lendária Sagrada",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Besta Única Sagrada",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Besta Comum Ancestral",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Besta Mágica Ancestral",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Besta Rara Ancestral",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Besta Lendária Ancestral",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Besta Única Ancestral",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Adaga Comum",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Adaga Mágica",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Adaga Rara",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Adaga Lendária",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Adaga Única",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Adaga Comum Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Adaga Mágica Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Adaga Rara Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Adaga Lendária Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Adaga Única Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Adaga Comum Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Adaga Mágica Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Adaga Rara Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Adaga Lendária Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Adaga Única Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foco Comum",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Foco Mágico",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Foco Raro",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Foco Lendário",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Foco Único",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Foco Comum Sagrado",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Foco Mágico Sagrado",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Foco Raro Sagrado",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Foco Lendário Sagrado",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Foco Único Sagrado",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Foco Comum Ancestral",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Foco Mágico Ancestral",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Foco Raro Ancestral",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Foco Lendário Ancestral",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Foco Único Ancestral",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Luvas Comuns",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Luvas Mágicas",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Luvas Raras",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Luvas Lendárias",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Luvas Únicas",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Luvas Comuns Sagradas",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Luvas Mágicas Sagradas",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Luvas Raras Sagradas",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Luvas Lendárias Sagradas",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Luvas Únicas Sagradas",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Luvas Comuns Ancestrais",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Luvas Mágicas Ancestrais",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Luvas Raras Ancestrais",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Luvas Lendárias Ancestrais",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Luvas Únicas Ancestrais",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Elmo Comum",
+    "Type": "helm"
+  },
+  {
+    "Name": "Elmo Mágico",
+    "Type": "helm"
+  },
+  {
+    "Name": "Elmo Raro",
+    "Type": "helm"
+  },
+  {
+    "Name": "Elmo Lendário",
+    "Type": "helm"
+  },
+  {
+    "Name": "Elmo Único",
+    "Type": "helm"
+  },
+  {
+    "Name": "Elmo Comum Sagrado",
+    "Type": "helm"
+  },
+  {
+    "Name": "Elmo Mágico Sagrado",
+    "Type": "helm"
+  },
+  {
+    "Name": "Elmo Raro Sagrado",
+    "Type": "helm"
+  },
+  {
+    "Name": "Elmo Lendário Sagrado",
+    "Type": "helm"
+  },
+  {
+    "Name": "Elmo Único Sagrado",
+    "Type": "helm"
+  },
+  {
+    "Name": "Elmo Comum Ancestral",
+    "Type": "helm"
+  },
+  {
+    "Name": "Elmo Mágico Ancestral",
+    "Type": "helm"
+  },
+  {
+    "Name": "Elmo Raro Ancestral",
+    "Type": "helm"
+  },
+  {
+    "Name": "Elmo Lendário Ancestral",
+    "Type": "helm"
+  },
+  {
+    "Name": "Elmo Único Ancestral",
+    "Type": "helm"
+  },
+  {
+    "Name": "Calças Comuns",
+    "Type": "pants"
+  },
+  {
+    "Name": "Calças Mágicas",
+    "Type": "pants"
+  },
+  {
+    "Name": "Calças Raras",
+    "Type": "pants"
+  },
+  {
+    "Name": "Calças Lendárias",
+    "Type": "pants"
+  },
+  {
+    "Name": "Calças Únicas",
+    "Type": "pants"
+  },
+  {
+    "Name": "Calças Comuns Sagradas",
+    "Type": "pants"
+  },
+  {
+    "Name": "Calças Mágicas Sagradas",
+    "Type": "pants"
+  },
+  {
+    "Name": "Calças Raras Sagradas",
+    "Type": "pants"
+  },
+  {
+    "Name": "Calças Lendárias Sagradas",
+    "Type": "pants"
+  },
+  {
+    "Name": "Calças Únicas Sagradas",
+    "Type": "pants"
+  },
+  {
+    "Name": "Calças Comuns Ancestrais",
+    "Type": "pants"
+  },
+  {
+    "Name": "Calças Mágicas Ancestrais",
+    "Type": "pants"
+  },
+  {
+    "Name": "Calças Raras Ancestrais",
+    "Type": "pants"
+  },
+  {
+    "Name": "Calças Lendárias Ancestrais",
+    "Type": "pants"
+  },
+  {
+    "Name": "Calças Únicas Ancestrais",
+    "Type": "pants"
+  },
+  {
+    "Name": "Maça Comum",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça Mágica",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça Rara",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça Lendária",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça Única",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça Comum Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça Mágica Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça Rara Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça Lendária Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça Única Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça Comum Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça Mágica Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça Rara Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça Lendária Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça Única Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça (concussão) Comum",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça (concussão) Mágica",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça (concussão) Rara",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça (concussão) Lendária",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça (concussão) Única",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça (concussão) Comum Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça (concussão) Mágica Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça (concussão) Rara Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça (concussão) Lendária Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça (concussão) Única Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça (concussão) Comum Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça (concussão) Mágica Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça (concussão) Rara Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça (concussão) Lendária Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça (concussão) Única Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos Comum",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos Mágica",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos Rara",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos Lendária",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos Única",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos Comum Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos Mágica Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos Rara Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos Lendária Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos Única Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos Comum Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos Mágica Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos Rara Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos Lendária Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos Única Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos (concussão) Comum",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos (concussão) Mágica",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos (concussão) Rara",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos (concussão) Lendária",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos (concussão) Única",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos (concussão) Comum Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos (concussão) Mágica Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos (concussão) Rara Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos (concussão) Lendária Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos (concussão) Única Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos (concussão) Comum Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos (concussão) Mágica Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos (concussão) Rara Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos (concussão) Lendária Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Maça de Duas Mãos (concussão) Única Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Totem Comum",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem Mágico",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem Raro",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem Lendário",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem Único",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem Comum Sagrado",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem Mágico Sagrado",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem Raro Sagrado",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem Lendário Sagrado",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem Único Sagrado",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem Comum Ancestral",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem Mágico Ancestral",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem Raro Ancestral",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem Lendário Ancestral",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem Único Ancestral",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Arma de Haste Comum",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste Mágica",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste Rara",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste Lendária",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste Única",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste Comum Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste Mágica Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste Rara Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste Lendária Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste Única Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste Comum Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste Mágica Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste Rara Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste Lendária Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste Única Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste (corte) Comum",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste (corte) Mágica",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste (corte) Rara",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste (corte) Lendária",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste (corte) Única",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste (corte) Comum Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste (corte) Mágica Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste (corte) Rara Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste (corte) Lendária Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste (corte) Única Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste (corte) Comum Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste (corte) Mágica Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste (corte) Rara Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste (corte) Lendária Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arma de Haste (corte) Única Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Anel Comum",
+    "Type": "ring"
+  },
+  {
+    "Name": "Anel Mágico",
+    "Type": "ring"
+  },
+  {
+    "Name": "Anel Raro",
+    "Type": "ring"
+  },
+  {
+    "Name": "Anel Lendário",
+    "Type": "ring"
+  },
+  {
+    "Name": "Anel Único",
+    "Type": "ring"
+  },
+  {
+    "Name": "Anel Comum Sagrado",
+    "Type": "ring"
+  },
+  {
+    "Name": "Anel Mágico Sagrado",
+    "Type": "ring"
+  },
+  {
+    "Name": "Anel Raro Sagrado",
+    "Type": "ring"
+  },
+  {
+    "Name": "Anel Lendário Sagrado",
+    "Type": "ring"
+  },
+  {
+    "Name": "Anel Único Sagrado",
+    "Type": "ring"
+  },
+  {
+    "Name": "Anel Comum Ancestral",
+    "Type": "ring"
+  },
+  {
+    "Name": "Anel Mágico Ancestral",
+    "Type": "ring"
+  },
+  {
+    "Name": "Anel Raro Ancestral",
+    "Type": "ring"
+  },
+  {
+    "Name": "Anel Lendário Ancestral",
+    "Type": "ring"
+  },
+  {
+    "Name": "Anel Único Ancestral",
+    "Type": "ring"
+  },
+  {
+    "Name": "Foice Comum",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice Mágica",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice Rara",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice Lendária",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice Única",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice Comum Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice Mágica Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice Rara Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice Lendária Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice Única Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice Comum Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice Mágica Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice Rara Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice Lendária Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice Única Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice de Duas Mãos Comum",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice de Duas Mãos Mágica",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice de Duas Mãos Rara",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice de Duas Mãos Lendária",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice de Duas Mãos Única",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice de Duas Mãos Comum Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice de Duas Mãos Mágica Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice de Duas Mãos Rara Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice de Duas Mãos Lendária Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice de Duas Mãos Única Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice de Duas Mãos Comum Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice de Duas Mãos Mágica Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice de Duas Mãos Rara Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice de Duas Mãos Lendária Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Foice de Duas Mãos Única Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Escudo Comum",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Escudo Mágico",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Escudo Raro",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Escudo Lendário",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Escudo Único",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Escudo Comum Sagrado",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Escudo Mágico Sagrado",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Escudo Raro Sagrado",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Escudo Lendário Sagrado",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Escudo Único Sagrado",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Escudo Comum Ancestral",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Escudo Mágico Ancestral",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Escudo Raro Ancestral",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Escudo Lendário Ancestral",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Escudo Único Ancestral",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Cajado Comum",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Cajado Mágico",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Cajado Raro",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Cajado Lendário",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Cajado Único",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Cajado Comum Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Cajado Mágico Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Cajado Raro Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Cajado Lendário Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Cajado Único Sagrado",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Cajado Comum Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Cajado Mágico Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Cajado Raro Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Cajado Lendário Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Cajado Único Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada Comum",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada Mágica",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada Rara",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada Lendária",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada Única",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada Comum Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada Mágica Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada Rara Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada Lendária Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada Única Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada Comum Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada Mágica Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada Rara Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada Lendária Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada Única Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada (corte) Comum",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada (corte) Mágica",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada (corte) Rara",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada (corte) Lendária",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada (corte) Única",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada (corte) Comum Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada (corte) Mágica Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada (corte) Rara Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada (corte) Lendária Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada (corte) Única Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada (corte) Comum Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada (corte) Mágica Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada (corte) Rara Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada (corte) Lendária Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada (corte) Única Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos Comum",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos Mágica",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos Rara",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos Lendária",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos Única",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos Comum Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos Mágica Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos Rara Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos Lendária Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos Única Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos Comum Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos Mágica Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos Rara Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos Lendária Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos Única Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos (corte) Comum",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos (corte) Mágica",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos (corte) Rara",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos (corte) Lendária",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos (corte) Única",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos (corte) Comum Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos (corte) Mágica Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos (corte) Rara Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos (corte) Lendária Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos (corte) Única Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos (corte) Comum Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos (corte) Mágica Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos (corte) Rara Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos (corte) Lendária Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Espada de Duas Mãos (corte) Única Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Varinha Comum",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Varinha Mágica",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Varinha Rara",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Varinha Lendária",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Varinha Única",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Varinha Comum Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Varinha Mágica Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Varinha Rara Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Varinha Lendária Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Varinha Única Sagrada",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Varinha Comum Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Varinha Mágica Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Varinha Rara Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Varinha Lendária Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Varinha Única Ancestral",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Sigilo do Pesadelo Sagrado",
+    "Type": "sigil"
+  },
+  {
+    "Name": "Sigilo do Pesadelo Ancestral",
+    "Type": "sigil"
+  }
+]

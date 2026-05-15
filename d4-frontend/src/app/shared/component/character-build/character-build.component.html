@@ -1,0 +1,86 @@
+<div class="container-fluid mx-auto bg-gray-900 text-white p-6 rounded-lg">
+    <div class="grid grid-cols-1 lg:grid-cols-1">
+        <app-build-search (onSearchBuild)="searchBuild($event)" (onSelectSet)="selectSet($event)"
+            [sets]="planner.sets"></app-build-search>
+
+    </div>
+    <hr class="my-5" *ngIf="planner.class">
+    <div class="grid grid-cols-1 lg:grid-cols-1" *ngIf="planner.class">
+        <div class="bg-gray-800 p-4 rounded-xl">
+            <h1 class="text-2xl font-bold mb-4">{{planner.class}}</h1>
+            <!-- <div class="grid grid-cols-2 gap-14">
+                <div class="col-start-1 col-end-3">
+                    <div class="item-slot" *ngFor="let slot of gearSlotsLeft">
+                        <div class="icon-container">
+                            <img src="https://rerollcdn.com/DIABLO4/Uniques/helm.png" alt="{{slot}} Icon" class="icon">
+                        </div>
+                        <div class="item-info">
+                            <div class="item-name">{{slot}}</div>
+                            <div class="item-status">Empty</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-end-7 col-span-2">
+                    <div class="item-slot-right" *ngFor="let slot of gearSlotsRight">
+                        <div class="item-info-right">
+                            <div class="item-name">{{slot}}</div>
+                            <div class="item-status">Empty</div>
+                        </div>
+                        <div class="icon-container ">
+                            <img src="https://rerollcdn.com/DIABLO4/Uniques/helm.png" alt="{{slot}} Icon" class="icon">
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+
+
+
+
+
+
+        </div>
+        <hr class="my-5">
+
+
+        <div class="overflow-hidden rounded-xl  bg-gray-800 p-1">
+            <ul class="flex items-center gap-2 text-sm font-medium">
+                <li class="flex-1" *ngFor="let tab of tabs; let i = index" (click)="selectTab(i)">
+                    <div class="flex items-center justify-center gap-2 rounded-lg px-3 py-2 cursor-pointer" [ngClass]="{
+                    'bg-gray-700 text-gray-300 shadow': selectedIndex === i,
+                    'text-gray-300 hover:bg-gray-700 hover:text-gray-100 hover:shadow': selectedIndex !== i
+                  }">
+                        {{ tab.label }}
+
+                    </div>
+                </li>
+            </ul>
+            <div class="p-4">
+                <ng-container *ngIf="selectedIndex === 0">
+                    <div class="grid grid-flow-row auto-rows-max gap-2 ">
+                        <ng-container *ngFor="let gear of gears">
+
+                            <app-item-detail *ngIf="gear.active" [gear]="gear"></app-item-detail>
+                        </ng-container>
+                    </div>
+                </ng-container>
+                <ng-container *ngIf="selectedIndex === 1">
+                    <app-stat-checklist></app-stat-checklist>
+                </ng-container>
+                <ng-container *ngIf="selectedIndex === 2">
+                    <app-attribute-display></app-attribute-display>
+                </ng-container>
+
+            </div>
+        </div>
+        <!-- <div class="bg-gray-800 p-4 rounded">
+            <h2 class="text-lg mb-2">Gems</h2>
+            <div class="flex justify-between">
+                <div *ngFor="let gem of gemSlots" class="flex flex-col items-center">
+                    <div class="w-16 h-16 bg-gray-700 flex items-center justify-center mb-1">{{ gem }}</div>
+                    <span class="text-sm">{{ gem }}</span>
+                </div>
+            </div>
+        </div> -->
+    </div>
+</div>

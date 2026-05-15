@@ -1,0 +1,70 @@
+// Adicionar no styles.scss
+@import '../styles.scss';
+
+// Estilos globais
+.app-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+
+// .header {
+//     background-color: $dark-secondary;
+//     color: $dark-text;
+//     padding: 20px;
+//     text-align: center;
+
+//     &.light-mode {
+//         background-color: $light-secondary;
+//         color: $light-text;
+//     }
+// }
+
+// .navigation {
+//     margin-top: 10px;
+
+//     ul {
+//         list-style: none;
+//         padding: 0;
+
+//         li {
+//             display: inline;
+//             margin-right: 15px;
+
+//             a {
+//                 color: $accent-color;
+//                 text-decoration: none;
+
+//                 &:hover,
+//                 &.active {
+//                     text-decoration: underline;
+//                 }
+//             }
+//         }
+//     }
+// }
+
+.main-content {
+    flex: 1;
+    padding: 20px;
+    background-color: $dark-primary;
+    color: $dark-text;
+
+    &.light-mode {
+        background-color: $light-primary;
+        color: $light-text;
+    }
+}
+
+.footer {
+    background-color: $dark-secondary;
+    color: $dark-text;
+    text-align: center;
+    padding: 10px;
+
+    &.light-mode {
+        background-color: $light-secondary;
+        color: $light-text;
+    }
+}

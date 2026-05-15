@@ -1,0 +1,40 @@
+.stat-checklist {
+    @apply bg-gray-900 p-4 rounded-md;
+}
+
+.header {
+    @apply text-gray-300 text-lg font-semibold mb-4;
+}
+
+.checklist {
+    @apply space-y-2;
+}
+
+.checklist-item {
+    @apply flex items-center;
+}
+
+.checkbox-label {
+    @apply flex items-center cursor-pointer;
+}
+
+.checkbox {
+    @apply bg-gray-800 w-5 h-5 flex items-center justify-center rounded mr-2;
+}
+
+.checkbox svg {
+    @apply hidden w-4 h-4 text-white;
+}
+
+input[type="checkbox"].peer:checked+.checkbox-label .checkbox {
+    @apply bg-blue-500 border-transparent;
+}
+
+input[type="checkbox"].peer:checked+.checkbox-label .checkbox svg {
+    @apply block;
+}
+
+/* Adicionando a lógica para riscar o texto */
+input[type="checkbox"].peer:checked+.checkbox-label span {
+    @apply line-through text-gray-500;
+}

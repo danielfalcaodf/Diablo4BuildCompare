@@ -1,0 +1,199 @@
+// Importar a fonte do Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap');
+@import "./assets/styles/variables";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+// Definição de variáveis para o tema dark/light
+$dark-primary: #1c1c1c;
+$light-primary: #e0e0e0;
+$dark-secondary: #2a2a2a;
+$light-secondary: #ffffff;
+$accent-color: #a61d24;
+$dark-text: #e0e0e0;
+$light-text: #1c1c1c;
+
+
+
+// Reset CSS para remover margens e padding padrão
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@layer base {
+
+    html,
+    body {
+        width: 100%;
+        height: 100%;
+        font-family: 'PT Serif', serif !important;
+        background-color: var(--bgPrimary);
+        color: $light-text;
+    }
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    font-family: 'PT Serif', serif !important;
+    background-color: var(--bgPrimary);
+    color: $light-text;
+}
+
+// Mixins para temas
+// @mixin dark-theme {
+//     background-color: $dark-primary;
+//     color: $dark-text;
+
+//     .secondary {
+//         background-color: $dark-secondary;
+//     }
+
+//     .accent {
+//         color: $accent-color;
+//     }
+
+//     a {
+//         color: lighten($accent-color, 20%);
+//     }
+// }
+
+// @mixin light-theme {
+//     background-color: var(--bgPrimary)
+//     color: $light-text;
+
+//     .secondary {
+//         background-color: $light-secondary;
+//     }
+
+//     .accent {
+//         color: $accent-color;
+//     }
+
+//     a {
+//         color: darken($accent-color, 20%);
+//     }
+// }
+
+// Aplicação de temas
+body.dark-mode {
+    @include dark-theme;
+}
+
+body.light-mode {
+    @include light-theme;
+}
+
+// Componentes específicos
+.header {
+    @include dark-theme;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    &.light-mode {
+        @include light-theme;
+    }
+}
+
+.navigation {
+    margin-top: 10px;
+
+    ul {
+        list-style: none;
+        padding: 0;
+
+        li {
+            display: inline;
+            margin-right: 15px;
+
+            a {
+                color: $accent-color;
+                text-decoration: none;
+
+                &:hover,
+                &.active {
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
+}
+
+.theme-toggle {
+    background-color: $accent-color;
+    color: $light-text;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+
+    &:hover {
+        background-color: darken($accent-color, 10%);
+    }
+
+    &.light-mode {
+        color: $dark-text;
+    }
+}
+
+.main-content {
+    flex: 1;
+    padding: 20px;
+    background-color: var(--bgPrimary);
+    color: $dark-text;
+
+
+}
+
+.footer {
+    background-color: var(--bgSecondary);
+    color: $dark-text;
+    text-align: center;
+    padding: 10px;
+
+
+}
+
+// Estilos globais
+.app-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.button {
+    background-color: $accent-color;
+    color: $light-text;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+
+    &:hover {
+        background-color: darken($accent-color, 10%);
+    }
+
+
+}
+
+.container {
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 1200px;
+
+    &.dark-mode {
+        background-color: $dark-secondary;
+        color: $dark-text;
+    }
+
+    &.light-mode {
+        background-color: $light-secondary;
+        color: $light-text;
+    }
+}

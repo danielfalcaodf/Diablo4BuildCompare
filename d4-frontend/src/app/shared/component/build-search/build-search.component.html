@@ -1,0 +1,16 @@
+<div class="build-search bg-gray-800 rounded-md">
+    <div class="header-search text-gray-300 text-lg font-semibold mb-4">Import Build Maxroll</div>
+    <div class="search-container flex items-center">
+        <input type="text" [(ngModel)]="searchInput" placeholder="Enter Maxroll link or ID"
+            class="search-input bg-gray-800 text-gray-300 p-2 rounded-l-md w-full">
+        <button (click)="searchBuild()" class="search-button bg-blue-500 text-white p-2 rounded-r-md">Import</button>
+    </div>
+    <div *ngIf="buildLink" class="result mt-4 text-gray-300">
+        <select class="set-dropdown bg-gray-800 text-gray-300 p-2 rounded-md flex-grow mr-2" [(ngModel)]="set"
+            (change)="selectSet()">
+            <option [value]="null" disabled selected>Select Set</option>
+            <option *ngFor="let set of sets" [ngValue]="set">{{set.name}}</option>
+        </select>
+
+    </div>
+</div>

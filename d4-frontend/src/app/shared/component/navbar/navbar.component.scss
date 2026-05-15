@@ -1,0 +1,31 @@
+.nav-link {
+    position: relative;
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    color: #e0e0e0;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.nav-link::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 2px;
+    background-color: #a61d24;
+    transition: width 0.3s ease;
+}
+
+.nav-link:hover {
+    color: #a61d24;
+}
+
+.nav-link:hover::after {
+    width: 100%;
+}
+
+input:checked~.dot {
+    transform: translateX(100%);
+}

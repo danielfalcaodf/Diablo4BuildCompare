@@ -1,0 +1,23 @@
+<!-- app.component.html -->
+<div class="app-container">
+  <app-navbar></app-navbar>
+  <!-- <header class="header">
+    <h1>Meu Aplicativo Diablo 4</h1>
+    <nav class="navigation">
+      <ul>
+        <li><a routerLink="/" routerLinkActive="active">Home</a></li>
+        <li><a routerLink="/about" routerLinkActive="active">Sobre</a></li>
+        <li><a routerLink="/contact" routerLinkActive="active">Contato</a></li>
+      </ul>
+    </nav>
+    <button class="theme-toggle" (click)="toggleTheme()">Trocar Tema</button>
+  </header> -->
+
+  <main class="main-content">
+    <router-outlet></router-outlet>
+  </main>
+
+  <footer class="footer">
+    <p>&copy; 2024 Meu Aplicativo Diablo 4. Todos os direitos reservados.</p>
+  </footer>
+</div>

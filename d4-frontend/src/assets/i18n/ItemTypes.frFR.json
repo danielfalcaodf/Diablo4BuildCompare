@@ -1,0 +1,1870 @@
+[
+  {
+    "Name": "Amulette ordinaire",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amulette magique",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amulette rare",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amulette légendaire",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amulette unique",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amulette sacrée ordinaire",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amulette sacrée magique",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amulette sacrée rare",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amulette sacrée légendaire",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amulette sacrée unique",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amulette ancestrale ordinaire",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amulette ancestrale magique",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amulette ancestrale rare",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amulette ancestrale légendaire",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Amulette ancestrale unique",
+    "Type": "amulet"
+  },
+  {
+    "Name": "Hache ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache sacrée ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache sacrée magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache sacrée rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache sacrée légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache sacrée unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache ancestrale ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache ancestrale magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache ancestrale rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache ancestrale légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache ancestrale unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache (tranchante) ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache (tranchante) magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache (tranchante) rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache (tranchante) légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache (tranchante) unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache (tranchante) sacrée ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache (tranchante) sacrée magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache (tranchante) sacrée rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache (tranchante) sacrée légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache (tranchante) sacrée unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache (tranchante) ancestrale ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache (tranchante) ancestrale magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache (tranchante) ancestrale rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache (tranchante) ancestrale légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache (tranchante) ancestrale unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains sacrée ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains sacrée magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains sacrée rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains sacrée légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains sacrée unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains ancestrale ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains ancestrale magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains ancestrale rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains ancestrale légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains ancestrale unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains (tranchante) ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains (tranchante) magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains (tranchante) rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains (tranchante) légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains (tranchante) unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains (tranchante) sacrée ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains (tranchante) sacrée magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains (tranchante) sacrée rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains (tranchante) sacrée légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains (tranchante) sacrée unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains (tranchante) ancestrale ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains (tranchante) ancestrale magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains (tranchante) ancestrale rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains (tranchante) ancestrale légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Hache à deux mains (tranchante) ancestrale unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Bottes ordinaires",
+    "Type": "boots"
+  },
+  {
+    "Name": "Bottes magiques",
+    "Type": "boots"
+  },
+  {
+    "Name": "Bottes rares",
+    "Type": "boots"
+  },
+  {
+    "Name": "Bottes légendaires",
+    "Type": "boots"
+  },
+  {
+    "Name": "Bottes uniques",
+    "Type": "boots"
+  },
+  {
+    "Name": "Bottes sacrées ordinaires",
+    "Type": "boots"
+  },
+  {
+    "Name": "Bottes sacrées magiques",
+    "Type": "boots"
+  },
+  {
+    "Name": "Bottes sacrées rares",
+    "Type": "boots"
+  },
+  {
+    "Name": "Bottes sacrées légendaires",
+    "Type": "boots"
+  },
+  {
+    "Name": "Bottes sacrées uniques",
+    "Type": "boots"
+  },
+  {
+    "Name": "Bottes ancestrales ordinaires",
+    "Type": "boots"
+  },
+  {
+    "Name": "Bottes ancestrales magiques",
+    "Type": "boots"
+  },
+  {
+    "Name": "Bottes ancestrales rares",
+    "Type": "boots"
+  },
+  {
+    "Name": "Bottes ancestrales légendaires",
+    "Type": "boots"
+  },
+  {
+    "Name": "Bottes ancestrales uniques",
+    "Type": "boots"
+  },
+  {
+    "Name": "Arc ordinaire",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arc magique",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arc rare",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arc légendaire",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arc unique",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arc sacré ordinaire",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arc sacré magique",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arc sacré rare",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arc sacré légendaire",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arc sacré unique",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arc ancestral ordinaire",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arc ancestral magique",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arc ancestral rare",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arc ancestral légendaire",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arc ancestral unique",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Cuirasse ordinaire",
+    "Type": "chest"
+  },
+  {
+    "Name": "Cuirasse magique",
+    "Type": "chest"
+  },
+  {
+    "Name": "Cuirasse rare",
+    "Type": "chest"
+  },
+  {
+    "Name": "Cuirasse légendaire",
+    "Type": "chest"
+  },
+  {
+    "Name": "Cuirasse unique",
+    "Type": "chest"
+  },
+  {
+    "Name": "Cuirasse sacrée ordinaire",
+    "Type": "chest"
+  },
+  {
+    "Name": "Cuirasse sacrée magique",
+    "Type": "chest"
+  },
+  {
+    "Name": "Cuirasse sacrée rare",
+    "Type": "chest"
+  },
+  {
+    "Name": "Cuirasse sacrée légendaire",
+    "Type": "chest"
+  },
+  {
+    "Name": "Cuirasse sacrée unique",
+    "Type": "chest"
+  },
+  {
+    "Name": "Cuirasse ancestrale ordinaire",
+    "Type": "chest"
+  },
+  {
+    "Name": "Cuirasse ancestrale magique",
+    "Type": "chest"
+  },
+  {
+    "Name": "Cuirasse ancestrale rare",
+    "Type": "chest"
+  },
+  {
+    "Name": "Cuirasse ancestrale légendaire",
+    "Type": "chest"
+  },
+  {
+    "Name": "Cuirasse ancestrale unique",
+    "Type": "chest"
+  },
+  {
+    "Name": "Arbalète ordinaire",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arbalète magique",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arbalète rare",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arbalète légendaire",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arbalète unique",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arbalète sacrée ordinaire",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arbalète sacrée magique",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arbalète sacrée rare",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arbalète sacrée légendaire",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arbalète sacrée unique",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arbalète ancestrale ordinaire",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arbalète ancestrale magique",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arbalète ancestrale rare",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arbalète ancestrale légendaire",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Arbalète ancestrale unique",
+    "Type": "ranged"
+  },
+  {
+    "Name": "Dague ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Dague magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Dague rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Dague légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Dague unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Dague sacrée ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Dague sacrée magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Dague sacrée rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Dague sacrée légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Dague sacrée unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Dague ancestrale ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Dague ancestrale magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Dague ancestrale rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Dague ancestrale légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Dague ancestrale unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Catalyseur ordinaire",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Catalyseur magique",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Catalyseur rare",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Catalyseur légendaire",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Catalyseur unique",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Catalyseur sacré ordinaire",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Catalyseur sacré magique",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Catalyseur sacré rare",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Catalyseur sacré légendaire",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Catalyseur sacré unique",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Catalyseur ancestral ordinaire",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Catalyseur ancestral magique",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Catalyseur ancestral rare",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Catalyseur ancestral légendaire",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Catalyseur ancestral unique",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Gants ordinaires",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Gants magiques",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Gants rares",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Gants légendaires",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Gants uniques",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Gants sacrés ordinaires",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Gants sacrés magiques",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Gants sacrés rares",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Gants sacrés légendaires",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Gants sacrés uniques",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Gants ancestraux ordinaires",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Gants ancestraux magiques",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Gants ancestraux rares",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Gants ancestraux légendaires",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Gants ancestraux uniques",
+    "Type": "gloves"
+  },
+  {
+    "Name": "Heaume ordinaire",
+    "Type": "helm"
+  },
+  {
+    "Name": "Heaume magique",
+    "Type": "helm"
+  },
+  {
+    "Name": "Heaume rare",
+    "Type": "helm"
+  },
+  {
+    "Name": "Heaume légendaire",
+    "Type": "helm"
+  },
+  {
+    "Name": "Heaume unique",
+    "Type": "helm"
+  },
+  {
+    "Name": "Heaume sacré ordinaire",
+    "Type": "helm"
+  },
+  {
+    "Name": "Heaume sacré magique",
+    "Type": "helm"
+  },
+  {
+    "Name": "Heaume sacré rare",
+    "Type": "helm"
+  },
+  {
+    "Name": "Heaume sacré légendaire",
+    "Type": "helm"
+  },
+  {
+    "Name": "Heaume sacré unique",
+    "Type": "helm"
+  },
+  {
+    "Name": "Heaume ancestral ordinaire",
+    "Type": "helm"
+  },
+  {
+    "Name": "Heaume ancestral magique",
+    "Type": "helm"
+  },
+  {
+    "Name": "Heaume ancestral rare",
+    "Type": "helm"
+  },
+  {
+    "Name": "Heaume ancestral légendaire",
+    "Type": "helm"
+  },
+  {
+    "Name": "Heaume ancestral unique",
+    "Type": "helm"
+  },
+  {
+    "Name": "Jambières ordinaires",
+    "Type": "pants"
+  },
+  {
+    "Name": "Jambières magiques",
+    "Type": "pants"
+  },
+  {
+    "Name": "Jambières rares",
+    "Type": "pants"
+  },
+  {
+    "Name": "Jambières légendaires",
+    "Type": "pants"
+  },
+  {
+    "Name": "Jambières uniques",
+    "Type": "pants"
+  },
+  {
+    "Name": "Jambières sacrées ordinaires",
+    "Type": "pants"
+  },
+  {
+    "Name": "Jambières sacrées magiques",
+    "Type": "pants"
+  },
+  {
+    "Name": "Jambières sacrées rares",
+    "Type": "pants"
+  },
+  {
+    "Name": "Jambières sacrées légendaires",
+    "Type": "pants"
+  },
+  {
+    "Name": "Jambières sacrées uniques",
+    "Type": "pants"
+  },
+  {
+    "Name": "Jambières ancestrales ordinaires",
+    "Type": "pants"
+  },
+  {
+    "Name": "Jambières ancestrales magiques",
+    "Type": "pants"
+  },
+  {
+    "Name": "Jambières ancestrales rares",
+    "Type": "pants"
+  },
+  {
+    "Name": "Jambières ancestrales légendaires",
+    "Type": "pants"
+  },
+  {
+    "Name": "Jambières ancestrales uniques",
+    "Type": "pants"
+  },
+  {
+    "Name": "Masse ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse sacrée ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse sacrée magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse sacrée rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse sacrée légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse sacrée unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse ancestrale ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse ancestrale magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse ancestrale rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse ancestrale légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse ancestrale unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse (contondante) ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse (contondante) magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse (contondante) rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse (contondante) légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse (contondante) unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse (contondante) sacrée ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse (contondante) sacrée magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse (contondante) sacrée rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse (contondante) sacrée légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse (contondante) sacrée unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse (contondante) ancestrale ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse (contondante) ancestrale magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse (contondante) ancestrale rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse (contondante) ancestrale légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse (contondante) ancestrale unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains sacrée ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains sacrée magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains sacrée rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains sacrée légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains sacrée unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains ancestrale ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains ancestrale magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains ancestrale rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains ancestrale légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains ancestrale unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains (contondante) ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains (contondante) magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains (contondante) rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains (contondante) légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains (contondante) unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains (contondante) sacrée ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains (contondante) sacrée magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains (contondante) sacrée rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains (contondante) sacrée légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains (contondante) sacrée unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains (contondante) ancestrale ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains (contondante) ancestrale magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains (contondante) ancestrale rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains (contondante) ancestrale légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Masse à deux mains (contondante) ancestrale unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Totem ordinaire",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem magique",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem rare",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem légendaire",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem unique",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem sacré ordinaire",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem sacré magique",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem sacré rare",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem sacré légendaire",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem sacré unique",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem ancestral ordinaire",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem ancestral magique",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem ancestral rare",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem ancestral légendaire",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Totem ancestral unique",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Arme d’hast ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast sacrée ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast sacrée magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast sacrée rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast sacrée légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast sacrée unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast ancestrale ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast ancestrale magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast ancestrale rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast ancestrale légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast ancestrale unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast (tranchante) ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast (tranchante) magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast (tranchante) rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast (tranchante) légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast (tranchante) unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast (tranchante) sacrée ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast (tranchante) sacrée magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast (tranchante) sacrée rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast (tranchante) sacrée légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast (tranchante) sacrée unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast (tranchante) ancestrale ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast (tranchante) ancestrale magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast (tranchante) ancestrale rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast (tranchante) ancestrale légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Arme d’hast (tranchante) ancestrale unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Bague ordinaire",
+    "Type": "ring"
+  },
+  {
+    "Name": "Bague magique",
+    "Type": "ring"
+  },
+  {
+    "Name": "Bague rare",
+    "Type": "ring"
+  },
+  {
+    "Name": "Bague légendaire",
+    "Type": "ring"
+  },
+  {
+    "Name": "Bague unique",
+    "Type": "ring"
+  },
+  {
+    "Name": "Bague sacrée ordinaire",
+    "Type": "ring"
+  },
+  {
+    "Name": "Bague sacrée magique",
+    "Type": "ring"
+  },
+  {
+    "Name": "Bague sacrée rare",
+    "Type": "ring"
+  },
+  {
+    "Name": "Bague sacrée légendaire",
+    "Type": "ring"
+  },
+  {
+    "Name": "Bague sacrée unique",
+    "Type": "ring"
+  },
+  {
+    "Name": "Bague ancestrale ordinaire",
+    "Type": "ring"
+  },
+  {
+    "Name": "Bague ancestrale magique",
+    "Type": "ring"
+  },
+  {
+    "Name": "Bague ancestrale rare",
+    "Type": "ring"
+  },
+  {
+    "Name": "Bague ancestrale légendaire",
+    "Type": "ring"
+  },
+  {
+    "Name": "Bague ancestrale unique",
+    "Type": "ring"
+  },
+  {
+    "Name": "Faux ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux sacrée ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux sacrée magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux sacrée rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux sacrée légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux sacrée unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux ancestrale ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux ancestrale magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux ancestrale rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux ancestrale légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux ancestrale unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux à deux mains ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux à deux mains magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux à deux mains rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux à deux mains légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux à deux mains unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux à deux mains sacrée ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux à deux mains sacrée magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux à deux mains sacrée rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux à deux mains sacrée légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux à deux mains sacrée unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux à deux mains ancestrale ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux à deux mains ancestrale magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux à deux mains ancestrale rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux à deux mains ancestrale légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Faux à deux mains ancestrale unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Bouclier ordinaire",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Bouclier magique",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Bouclier rare",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Bouclier légendaire",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Bouclier unique",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Bouclier sacré ordinaire",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Bouclier sacré magique",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Bouclier sacré rare",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Bouclier sacré légendaire",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Bouclier sacré unique",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Bouclier ancestral ordinaire",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Bouclier ancestral magique",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Bouclier ancestral rare",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Bouclier ancestral légendaire",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Bouclier ancestral unique",
+    "Type": "offhand"
+  },
+  {
+    "Name": "Bâton ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Bâton magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Bâton rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Bâton légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Bâton unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Bâton sacré ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Bâton sacré magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Bâton sacré rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Bâton sacré légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Bâton sacré unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Bâton ancestral ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Bâton ancestral magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Bâton ancestral rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Bâton ancestral légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Bâton ancestral unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée sacrée ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée sacrée magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée sacrée rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée sacrée légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée sacrée unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée ancestrale ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée ancestrale magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée ancestrale rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée ancestrale légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée ancestrale unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée (tranchante) ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée (tranchante) magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée (tranchante) rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée (tranchante) légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée (tranchante) unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée (tranchante) sacrée ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée (tranchante) sacrée magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée (tranchante) sacrée rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée (tranchante) sacrée légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée (tranchante) sacrée unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée (tranchante) ancestrale ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée (tranchante) ancestrale magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée (tranchante) ancestrale rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée (tranchante) ancestrale légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée (tranchante) ancestrale unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains sacrée ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains sacrée magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains sacrée rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains sacrée légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains sacrée unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains ancestrale ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains ancestrale magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains ancestrale rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains ancestrale légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains ancestrale unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains (tranchante) ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains (tranchante) magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains (tranchante) rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains (tranchante) légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains (tranchante) unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains (tranchante) sacrée ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains (tranchante) sacrée magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains (tranchante) sacrée rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains (tranchante) sacrée légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains (tranchante) sacrée unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains (tranchante) ancestrale ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains (tranchante) ancestrale magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains (tranchante) ancestrale rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains (tranchante) ancestrale légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Épée à deux mains (tranchante) ancestrale unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Baguette ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Baguette magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Baguette rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Baguette légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Baguette unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Baguette sacrée ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Baguette sacrée magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Baguette sacrée rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Baguette sacrée légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Baguette sacrée unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Baguette ancestrale ordinaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Baguette ancestrale magique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Baguette ancestrale rare",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Baguette ancestrale légendaire",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Baguette ancestrale unique",
+    "Type": "weapon"
+  },
+  {
+    "Name": "Emblème du Cauchemar sacré",
+    "Type": "sigil"
+  },
+  {
+    "Name": "Emblème du Cauchemar ancestral",
+    "Type": "sigil"
+  }
+]

@@ -1,0 +1,26 @@
+<div class="attribute-display bg-gray-900 p-4 rounded-md">
+    <div *ngFor="let attribute of attributes" class="attribute-item flex items-center justify-between mb-2">
+        <span class="attribute-name text-gray-300">{{ attribute.name }}</span>
+        <div class="attribute-value flex items-center">
+            <span [ngClass]="{
+          'text-white': attribute.color === 'white',
+          'text-red-500': attribute.color === 'red',
+          'text-green-500': attribute.color === 'green'
+        }">
+                {{ attribute.value }}
+            </span>
+            <svg *ngIf="attribute.direction === 'up'" class="ml-2 w-4 h-4 text-green-500" fill="none"
+                stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 15l7-7 7 7"></path>
+            </svg>
+            <svg *ngIf="attribute.direction === 'down'" class="ml-2 w-4 h-4 text-red-500" fill="none"
+                stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+            </svg>
+            <svg *ngIf="attribute.direction === 'neutral'" class="ml-2 w-4 h-4 text-gray-500" fill="none"
+                stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 12h14"></path>
+            </svg>
+        </div>
+    </div>
+</div>

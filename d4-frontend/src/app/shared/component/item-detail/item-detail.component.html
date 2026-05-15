@@ -1,0 +1,64 @@
+<div class="item-detail p-4 rounded-md">
+    <div class="flex items-center mb-4">
+        <img [src]="gear.icon" alt=" Helm Icon" class="icon mr-2">
+        <div>
+            <div class="item-name text-gray-300 text-lg font-semibold">{{gear.name}}</div>
+            <div class="item-power text-gray-400 text-sm">{{gear.item.power}} Item Power</div>
+            <div class="masterworking text-gray-400 text-sm">Masterworking: {{gear.item.upgrade}} / 12</div>
+        </div>
+    </div>
+
+    <div class="stats space-y-2">
+
+        <div class="stat flex items-center" *ngFor="let implicit of gear.item.implicits">
+
+
+            <div class="stat-circles flex space-x-1">
+                <img src="assets/images/Default-affixes.svg" alt="affixesIcon" class="icon">
+
+            </div>
+            <app-tooltip [text]="(implicit.nid | translate:'affixes':'DescriptionClean')" class="w-100 flex-grow mx-2">
+                <div class="stat-dropdown bg-gray-800 text-gray-300 p-2 rounded-md flex-grow mx-2">
+
+                    {{ implicit.nid | translate:'affixes':'DescriptionClean' }}
+                </div>
+
+            </app-tooltip>
+            <div class="stat-circles flex space-x-1">
+                <div class="circle w-4 h-4 circle-green rounded-full" *ngIf="implicit.correct"></div>
+                <div class="circle w-4 h-4 circle-red rounded-full" *ngIf="!implicit.correct"></div>
+            </div>
+
+        </div>
+        <div class="stat flex items-center" *ngFor="let affix of gear.item.explicits">
+            <div class="stat-circles flex space-x-1">
+                <img src="assets/images/Default-affixes.svg" alt="tempering Icon" class="icon" *ngIf="!affix.greater">
+                <img src="assets/images/Greater.svg" alt="Greater Icon" class="icon" *ngIf="affix.greater">
+            </div>
+            <app-tooltip [text]="(affix.nid | translate:'affixes':'DescriptionClean')" class="w-100 flex-grow mx-2">
+                <div class="stat-dropdown bg-gray-800 text-gray-300 p-2 rounded-md flex-grow mx-2">
+                    {{affix.nid | translate:'affixes':'DescriptionClean'}}
+                </div>
+            </app-tooltip>
+            <div class="stat-circles flex space-x-1">
+                <div class="circle w-4 h-4 circle-green rounded-full" *ngIf="affix.correct"></div>
+                <div class="circle w-4 h-4 circle-red rounded-full" *ngIf="!affix.correct"></div>
+            </div>
+        </div>
+
+        <div class="stat flex items-center" *ngFor="let affix of gear.item.tempered">
+            <div class="stat-circles flex space-x-1">
+                <img src="https://rerollcdn.com/DIABLO4/UI/tempering_02.png" alt="tempering Icon" class="icon">
+            </div>
+            <app-tooltip [text]="(affix.nid | translate:'affixes':'DescriptionClean')" class="w-100 flex-grow mx-2 ">
+                <div class="stat-dropdown bg-gray-800 text-gray-300 p-2 rounded-md flex-grow ">
+                    {{affix.nid | translate:'affixes':'DescriptionClean'}}
+                </div>
+            </app-tooltip>
+            <div class="stat-circles flex space-x-1">
+                <div class="circle w-4 h-4 circle-green rounded-full" *ngIf="affix.correct"></div>
+                <div class="circle w-4 h-4 circle-red rounded-full" *ngIf="!affix.correct"></div>
+            </div>
+        </div>
+    </div>
+</div>

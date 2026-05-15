@@ -1,0 +1,23 @@
+.attribute-display {
+    @apply bg-gray-900 p-4 rounded-md;
+}
+
+.attribute-item {
+    @apply flex items-center justify-between mb-2;
+}
+
+.attribute-name {
+    @apply text-gray-300;
+}
+
+.attribute-value {
+    @apply flex items-center;
+}
+
+.attribute-value span {
+    @apply ml-2;
+}
+
+.attribute-value svg {
+    @apply ml-2 w-4 h-4;
+}

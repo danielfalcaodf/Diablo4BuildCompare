@@ -1,0 +1,56 @@
+.container-fluid {
+    // background-color: #1a1a1a;
+    @apply bg-secondary-dark
+}
+
+button {
+    background-color: #2d2d2d;
+    color: white;
+}
+
+button:hover {
+    background-color: #3b3b3b;
+}
+
+// slot 
+.item-slot,
+.item-slot-right {
+    @apply flex items-center space-x-4 mb-2.5;
+}
+
+.icon-container {
+    @apply w-16 h-16 flex items-center justify-center bg-gray-900 rounded-md flex-shrink-0 mr-2.5;
+}
+
+.item-slot-right {
+    @apply justify-end;
+}
+
+.item-slot-right .icon-container {
+    @apply ml-2.5 mr-0;
+}
+
+.icon {
+    @apply w-10 h-10;
+}
+
+.item-info,
+.item-info-right {
+    @apply flex flex-col;
+}
+
+.item-info {
+    @apply text-left;
+}
+
+.item-info-right {
+    @apply text-right;
+}
+
+.item-name {
+    @apply text-lg font-semibold text-gray-300;
+}
+
+.item-status {
+    @apply text-sm text-gray-500;
+}

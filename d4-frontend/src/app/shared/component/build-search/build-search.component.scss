@@ -1,0 +1,31 @@
+.build-search {
+    @apply bg-gray-800 p-4 rounded-md;
+}
+
+.header-search {
+    @apply text-gray-300 text-lg font-semibold mb-4;
+}
+
+.search-container {
+    @apply flex items-center;
+}
+
+.search-input {
+    @apply bg-gray-900 text-gray-300 p-2 rounded-l-md w-full;
+}
+
+.search-button {
+    @apply bg-blue-900 text-white p-2 rounded-r-md;
+}
+
+.result {
+    @apply mt-4 text-gray-300;
+}
+
+.result a {
+    @apply underline;
+}
+
+.set-dropdown {
+    @apply bg-gray-800 text-gray-300 p-2 rounded-md flex-grow mr-2 w-full;
+}

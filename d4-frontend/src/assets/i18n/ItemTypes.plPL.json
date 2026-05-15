@@ -1,0 +1,1870 @@
+[
+  {
+    "Name": "amulet zwykły",
+    "Type": "amulet"
+  },
+  {
+    "Name": "amulet magiczny",
+    "Type": "amulet"
+  },
+  {
+    "Name": "amulet rzadki",
+    "Type": "amulet"
+  },
+  {
+    "Name": "amulet legendarny",
+    "Type": "amulet"
+  },
+  {
+    "Name": "amulet unikatowy",
+    "Type": "amulet"
+  },
+  {
+    "Name": "amulet święty zwykły",
+    "Type": "amulet"
+  },
+  {
+    "Name": "amulet święty magiczny",
+    "Type": "amulet"
+  },
+  {
+    "Name": "amulet święty rzadki",
+    "Type": "amulet"
+  },
+  {
+    "Name": "amulet święty legendarny",
+    "Type": "amulet"
+  },
+  {
+    "Name": "amulet święty unikatowy",
+    "Type": "amulet"
+  },
+  {
+    "Name": "amulet starożytny zwykły",
+    "Type": "amulet"
+  },
+  {
+    "Name": "amulet starożytny magiczny",
+    "Type": "amulet"
+  },
+  {
+    "Name": "amulet starożytny rzadki",
+    "Type": "amulet"
+  },
+  {
+    "Name": "amulet starożytny legendarny",
+    "Type": "amulet"
+  },
+  {
+    "Name": "amulet starożytny unikatowy",
+    "Type": "amulet"
+  },
+  {
+    "Name": "topór zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór święty zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór święty magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór święty rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór święty legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór święty unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór starożytny zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór starożytny magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór starożytny rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór starożytny legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór starożytny unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór (sieczne) zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór (sieczne) magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór (sieczne) rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór (sieczne) legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór (sieczne) unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór (sieczne) święty zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór (sieczne) święty magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór (sieczne) święty rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór (sieczne) święty legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór (sieczne) święty unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór (sieczne) starożytny zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór (sieczne) starożytny magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór (sieczne) starożytny rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór (sieczne) starożytny legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór (sieczne) starożytny unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny święty zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny święty magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny święty rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny święty legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny święty unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny starożytny zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny starożytny magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny starożytny rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny starożytny legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny starożytny unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny (sieczne) zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny (sieczne) magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny (sieczne) rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny (sieczne) legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny (sieczne) unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny (sieczne) święty zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny (sieczne) święty magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny (sieczne) święty rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny (sieczne) święty legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny (sieczne) święty unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny (sieczne) starożytny zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny (sieczne) starożytny magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny (sieczne) starożytny rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny (sieczne) starożytny legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "topór dwuręczny (sieczne) starożytny unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buty zwykłe",
+    "Type": "boots"
+  },
+  {
+    "Name": "buty magiczne",
+    "Type": "boots"
+  },
+  {
+    "Name": "buty rzadkie",
+    "Type": "boots"
+  },
+  {
+    "Name": "buty legendarne",
+    "Type": "boots"
+  },
+  {
+    "Name": "buty unikatowe",
+    "Type": "boots"
+  },
+  {
+    "Name": "buty święte zwykłe",
+    "Type": "boots"
+  },
+  {
+    "Name": "buty święte magiczne",
+    "Type": "boots"
+  },
+  {
+    "Name": "buty święte rzadkie",
+    "Type": "boots"
+  },
+  {
+    "Name": "buty święte legendarne",
+    "Type": "boots"
+  },
+  {
+    "Name": "buty święte unikatowe",
+    "Type": "boots"
+  },
+  {
+    "Name": "buty starożytne zwykłe",
+    "Type": "boots"
+  },
+  {
+    "Name": "buty starożytne magiczne",
+    "Type": "boots"
+  },
+  {
+    "Name": "buty starożytne rzadkie",
+    "Type": "boots"
+  },
+  {
+    "Name": "buty starożytne legendarne",
+    "Type": "boots"
+  },
+  {
+    "Name": "buty starożytne unikatowe",
+    "Type": "boots"
+  },
+  {
+    "Name": "łuk zwykły",
+    "Type": "ranged"
+  },
+  {
+    "Name": "łuk magiczny",
+    "Type": "ranged"
+  },
+  {
+    "Name": "łuk rzadki",
+    "Type": "ranged"
+  },
+  {
+    "Name": "łuk legendarny",
+    "Type": "ranged"
+  },
+  {
+    "Name": "łuk unikatowy",
+    "Type": "ranged"
+  },
+  {
+    "Name": "łuk święty zwykły",
+    "Type": "ranged"
+  },
+  {
+    "Name": "łuk święty magiczny",
+    "Type": "ranged"
+  },
+  {
+    "Name": "łuk święty rzadki",
+    "Type": "ranged"
+  },
+  {
+    "Name": "łuk święty legendarny",
+    "Type": "ranged"
+  },
+  {
+    "Name": "łuk święty unikatowy",
+    "Type": "ranged"
+  },
+  {
+    "Name": "łuk starożytny zwykły",
+    "Type": "ranged"
+  },
+  {
+    "Name": "łuk starożytny magiczny",
+    "Type": "ranged"
+  },
+  {
+    "Name": "łuk starożytny rzadki",
+    "Type": "ranged"
+  },
+  {
+    "Name": "łuk starożytny legendarny",
+    "Type": "ranged"
+  },
+  {
+    "Name": "łuk starożytny unikatowy",
+    "Type": "ranged"
+  },
+  {
+    "Name": "napierśnik zwykły",
+    "Type": "chest"
+  },
+  {
+    "Name": "napierśnik magiczny",
+    "Type": "chest"
+  },
+  {
+    "Name": "napierśnik rzadki",
+    "Type": "chest"
+  },
+  {
+    "Name": "napierśnik legendarny",
+    "Type": "chest"
+  },
+  {
+    "Name": "napierśnik unikatowy",
+    "Type": "chest"
+  },
+  {
+    "Name": "napierśnik święty zwykły",
+    "Type": "chest"
+  },
+  {
+    "Name": "napierśnik święty magiczny",
+    "Type": "chest"
+  },
+  {
+    "Name": "napierśnik święty rzadki",
+    "Type": "chest"
+  },
+  {
+    "Name": "napierśnik święty legendarny",
+    "Type": "chest"
+  },
+  {
+    "Name": "napierśnik święty unikatowy",
+    "Type": "chest"
+  },
+  {
+    "Name": "napierśnik starożytny zwykły",
+    "Type": "chest"
+  },
+  {
+    "Name": "napierśnik starożytny magiczny",
+    "Type": "chest"
+  },
+  {
+    "Name": "napierśnik starożytny rzadki",
+    "Type": "chest"
+  },
+  {
+    "Name": "napierśnik starożytny legendarny",
+    "Type": "chest"
+  },
+  {
+    "Name": "napierśnik starożytny unikatowy",
+    "Type": "chest"
+  },
+  {
+    "Name": "kusza zwykła",
+    "Type": "ranged"
+  },
+  {
+    "Name": "kusza magiczna",
+    "Type": "ranged"
+  },
+  {
+    "Name": "kusza rzadka",
+    "Type": "ranged"
+  },
+  {
+    "Name": "kusza legendarna",
+    "Type": "ranged"
+  },
+  {
+    "Name": "kusza unikatowa",
+    "Type": "ranged"
+  },
+  {
+    "Name": "kusza święta zwykła",
+    "Type": "ranged"
+  },
+  {
+    "Name": "kusza święta magiczna",
+    "Type": "ranged"
+  },
+  {
+    "Name": "kusza święta rzadka",
+    "Type": "ranged"
+  },
+  {
+    "Name": "kusza święta legendarna",
+    "Type": "ranged"
+  },
+  {
+    "Name": "kusza święta unikatowa",
+    "Type": "ranged"
+  },
+  {
+    "Name": "kusza starożytna zwykła",
+    "Type": "ranged"
+  },
+  {
+    "Name": "kusza starożytna magiczna",
+    "Type": "ranged"
+  },
+  {
+    "Name": "kusza starożytna rzadka",
+    "Type": "ranged"
+  },
+  {
+    "Name": "kusza starożytna legendarna",
+    "Type": "ranged"
+  },
+  {
+    "Name": "kusza starożytna unikatowa",
+    "Type": "ranged"
+  },
+  {
+    "Name": "sztylet zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "sztylet magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "sztylet rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "sztylet legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "sztylet unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "sztylet święty zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "sztylet święty magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "sztylet święty rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "sztylet święty legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "sztylet święty unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "sztylet starożytny zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "sztylet starożytny magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "sztylet starożytny rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "sztylet starożytny legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "sztylet starożytny unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "fokus zwykły",
+    "Type": "offhand"
+  },
+  {
+    "Name": "fokus magiczny",
+    "Type": "offhand"
+  },
+  {
+    "Name": "fokus rzadki",
+    "Type": "offhand"
+  },
+  {
+    "Name": "fokus legendarny",
+    "Type": "offhand"
+  },
+  {
+    "Name": "fokus unikatowy",
+    "Type": "offhand"
+  },
+  {
+    "Name": "fokus święty zwykły",
+    "Type": "offhand"
+  },
+  {
+    "Name": "fokus święty magiczny",
+    "Type": "offhand"
+  },
+  {
+    "Name": "fokus święty rzadki",
+    "Type": "offhand"
+  },
+  {
+    "Name": "fokus święty legendarny",
+    "Type": "offhand"
+  },
+  {
+    "Name": "fokus święty unikatowy",
+    "Type": "offhand"
+  },
+  {
+    "Name": "fokus starożytny zwykły",
+    "Type": "offhand"
+  },
+  {
+    "Name": "fokus starożytny magiczny",
+    "Type": "offhand"
+  },
+  {
+    "Name": "fokus starożytny rzadki",
+    "Type": "offhand"
+  },
+  {
+    "Name": "fokus starożytny legendarny",
+    "Type": "offhand"
+  },
+  {
+    "Name": "fokus starożytny unikatowy",
+    "Type": "offhand"
+  },
+  {
+    "Name": "rękawice zwykłe",
+    "Type": "gloves"
+  },
+  {
+    "Name": "rękawice magiczne",
+    "Type": "gloves"
+  },
+  {
+    "Name": "rękawice rzadkie",
+    "Type": "gloves"
+  },
+  {
+    "Name": "rękawice legendarne",
+    "Type": "gloves"
+  },
+  {
+    "Name": "rękawice unikatowe",
+    "Type": "gloves"
+  },
+  {
+    "Name": "rękawice święte zwykłe",
+    "Type": "gloves"
+  },
+  {
+    "Name": "rękawice święte magiczne",
+    "Type": "gloves"
+  },
+  {
+    "Name": "rękawice święte rzadkie",
+    "Type": "gloves"
+  },
+  {
+    "Name": "rękawice święte legendarne",
+    "Type": "gloves"
+  },
+  {
+    "Name": "rękawice święte unikatowe",
+    "Type": "gloves"
+  },
+  {
+    "Name": "rękawice starożytne zwykłe",
+    "Type": "gloves"
+  },
+  {
+    "Name": "rękawice starożytne magiczne",
+    "Type": "gloves"
+  },
+  {
+    "Name": "rękawice starożytne rzadkie",
+    "Type": "gloves"
+  },
+  {
+    "Name": "rękawice starożytne legendarne",
+    "Type": "gloves"
+  },
+  {
+    "Name": "rękawice starożytne unikatowe",
+    "Type": "gloves"
+  },
+  {
+    "Name": "hełm zwykły",
+    "Type": "helm"
+  },
+  {
+    "Name": "hełm magiczny",
+    "Type": "helm"
+  },
+  {
+    "Name": "hełm rzadki",
+    "Type": "helm"
+  },
+  {
+    "Name": "hełm legendarny",
+    "Type": "helm"
+  },
+  {
+    "Name": "hełm unikatowy",
+    "Type": "helm"
+  },
+  {
+    "Name": "hełm święty zwykły",
+    "Type": "helm"
+  },
+  {
+    "Name": "hełm święty magiczny",
+    "Type": "helm"
+  },
+  {
+    "Name": "hełm święty rzadki",
+    "Type": "helm"
+  },
+  {
+    "Name": "hełm święty legendarny",
+    "Type": "helm"
+  },
+  {
+    "Name": "hełm święty unikatowy",
+    "Type": "helm"
+  },
+  {
+    "Name": "hełm starożytny zwykły",
+    "Type": "helm"
+  },
+  {
+    "Name": "hełm starożytny magiczny",
+    "Type": "helm"
+  },
+  {
+    "Name": "hełm starożytny rzadki",
+    "Type": "helm"
+  },
+  {
+    "Name": "hełm starożytny legendarny",
+    "Type": "helm"
+  },
+  {
+    "Name": "hełm starożytny unikatowy",
+    "Type": "helm"
+  },
+  {
+    "Name": "spodnie zwykłe",
+    "Type": "pants"
+  },
+  {
+    "Name": "spodnie magiczne",
+    "Type": "pants"
+  },
+  {
+    "Name": "spodnie rzadkie",
+    "Type": "pants"
+  },
+  {
+    "Name": "spodnie legendarne",
+    "Type": "pants"
+  },
+  {
+    "Name": "spodnie unikatowe",
+    "Type": "pants"
+  },
+  {
+    "Name": "spodnie święte zwykłe",
+    "Type": "pants"
+  },
+  {
+    "Name": "spodnie święte magiczne",
+    "Type": "pants"
+  },
+  {
+    "Name": "spodnie święte rzadkie",
+    "Type": "pants"
+  },
+  {
+    "Name": "spodnie święte legendarne",
+    "Type": "pants"
+  },
+  {
+    "Name": "spodnie święte unikatowe",
+    "Type": "pants"
+  },
+  {
+    "Name": "spodnie starożytne zwykłe",
+    "Type": "pants"
+  },
+  {
+    "Name": "spodnie starożytne magiczne",
+    "Type": "pants"
+  },
+  {
+    "Name": "spodnie starożytne rzadkie",
+    "Type": "pants"
+  },
+  {
+    "Name": "spodnie starożytne legendarne",
+    "Type": "pants"
+  },
+  {
+    "Name": "spodnie starożytne unikatowe",
+    "Type": "pants"
+  },
+  {
+    "Name": "buława zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława święta zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława święta magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława święta rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława święta legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława święta unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława starożytna zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława starożytna magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława starożytna rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława starożytna legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława starożytna unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława (obuchowe) zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława (obuchowe) magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława (obuchowe) rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława (obuchowe) legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława (obuchowe) unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława (obuchowe) święta zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława (obuchowe) święta magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława (obuchowe) święta rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława (obuchowe) święta legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława (obuchowe) święta unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława (obuchowe) starożytna zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława (obuchowe) starożytna magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława (obuchowe) starożytna rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława (obuchowe) starożytna legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława (obuchowe) starożytna unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna święta zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna święta magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna święta rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna święta legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna święta unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna starożytna zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna starożytna magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna starożytna rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna starożytna legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna starożytna unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna (obuchowe) zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna (obuchowe) magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna (obuchowe) rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna (obuchowe) legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna (obuchowe) unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna (obuchowe) święta zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna (obuchowe) święta magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna (obuchowe) święta rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna (obuchowe) święta legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna (obuchowe) święta unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna (obuchowe) starożytna zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna (obuchowe) starożytna magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna (obuchowe) starożytna rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna (obuchowe) starożytna legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "buława dwuręczna (obuchowe) starożytna unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "totem zwykły",
+    "Type": "offhand"
+  },
+  {
+    "Name": "totem magiczny",
+    "Type": "offhand"
+  },
+  {
+    "Name": "totem rzadki",
+    "Type": "offhand"
+  },
+  {
+    "Name": "totem legendarny",
+    "Type": "offhand"
+  },
+  {
+    "Name": "totem unikatowy",
+    "Type": "offhand"
+  },
+  {
+    "Name": "totem święty zwykły",
+    "Type": "offhand"
+  },
+  {
+    "Name": "totem święty magiczny",
+    "Type": "offhand"
+  },
+  {
+    "Name": "totem święty rzadki",
+    "Type": "offhand"
+  },
+  {
+    "Name": "totem święty legendarny",
+    "Type": "offhand"
+  },
+  {
+    "Name": "totem święty unikatowy",
+    "Type": "offhand"
+  },
+  {
+    "Name": "totem starożytny zwykły",
+    "Type": "offhand"
+  },
+  {
+    "Name": "totem starożytny magiczny",
+    "Type": "offhand"
+  },
+  {
+    "Name": "totem starożytny rzadki",
+    "Type": "offhand"
+  },
+  {
+    "Name": "totem starożytny legendarny",
+    "Type": "offhand"
+  },
+  {
+    "Name": "totem starożytny unikatowy",
+    "Type": "offhand"
+  },
+  {
+    "Name": "broń drzewcowa zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa święta zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa święta magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa święta rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa święta legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa święta unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa starożytna zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa starożytna magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa starożytna rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa starożytna legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa starożytna unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa (sieczne) zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa (sieczne) magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa (sieczne) rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa (sieczne) legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa (sieczne) unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa (sieczne) święta zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa (sieczne) święta magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa (sieczne) święta rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa (sieczne) święta legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa (sieczne) święta unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa (sieczne) starożytna zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa (sieczne) starożytna magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa (sieczne) starożytna rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa (sieczne) starożytna legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "broń drzewcowa (sieczne) starożytna unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "pierścień zwykły",
+    "Type": "ring"
+  },
+  {
+    "Name": "pierścień magiczny",
+    "Type": "ring"
+  },
+  {
+    "Name": "pierścień rzadki",
+    "Type": "ring"
+  },
+  {
+    "Name": "pierścień legendarny",
+    "Type": "ring"
+  },
+  {
+    "Name": "pierścień unikatowy",
+    "Type": "ring"
+  },
+  {
+    "Name": "pierścień święty zwykły",
+    "Type": "ring"
+  },
+  {
+    "Name": "pierścień święty magiczny",
+    "Type": "ring"
+  },
+  {
+    "Name": "pierścień święty rzadki",
+    "Type": "ring"
+  },
+  {
+    "Name": "pierścień święty legendarny",
+    "Type": "ring"
+  },
+  {
+    "Name": "pierścień święty unikatowy",
+    "Type": "ring"
+  },
+  {
+    "Name": "pierścień starożytny zwykły",
+    "Type": "ring"
+  },
+  {
+    "Name": "pierścień starożytny magiczny",
+    "Type": "ring"
+  },
+  {
+    "Name": "pierścień starożytny rzadki",
+    "Type": "ring"
+  },
+  {
+    "Name": "pierścień starożytny legendarny",
+    "Type": "ring"
+  },
+  {
+    "Name": "pierścień starożytny unikatowy",
+    "Type": "ring"
+  },
+  {
+    "Name": "kosa zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa święta zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa święta magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa święta rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa święta legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa święta unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa starożytna zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa starożytna magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa starożytna rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa starożytna legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa starożytna unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa dwuręczna zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa dwuręczna magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa dwuręczna rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa dwuręczna legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa dwuręczna unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa dwuręczna święta zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa dwuręczna święta magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa dwuręczna święta rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa dwuręczna święta legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa dwuręczna święta unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa dwuręczna starożytna zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa dwuręczna starożytna magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa dwuręczna starożytna rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa dwuręczna starożytna legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kosa dwuręczna starożytna unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "tarcza zwykła",
+    "Type": "offhand"
+  },
+  {
+    "Name": "tarcza magiczna",
+    "Type": "offhand"
+  },
+  {
+    "Name": "tarcza rzadka",
+    "Type": "offhand"
+  },
+  {
+    "Name": "tarcza legendarna",
+    "Type": "offhand"
+  },
+  {
+    "Name": "tarcza unikatowa",
+    "Type": "offhand"
+  },
+  {
+    "Name": "tarcza święta zwykła",
+    "Type": "offhand"
+  },
+  {
+    "Name": "tarcza święta magiczna",
+    "Type": "offhand"
+  },
+  {
+    "Name": "tarcza święta rzadka",
+    "Type": "offhand"
+  },
+  {
+    "Name": "tarcza święta legendarna",
+    "Type": "offhand"
+  },
+  {
+    "Name": "tarcza święta unikatowa",
+    "Type": "offhand"
+  },
+  {
+    "Name": "tarcza starożytna zwykła",
+    "Type": "offhand"
+  },
+  {
+    "Name": "tarcza starożytna magiczna",
+    "Type": "offhand"
+  },
+  {
+    "Name": "tarcza starożytna rzadka",
+    "Type": "offhand"
+  },
+  {
+    "Name": "tarcza starożytna legendarna",
+    "Type": "offhand"
+  },
+  {
+    "Name": "tarcza starożytna unikatowa",
+    "Type": "offhand"
+  },
+  {
+    "Name": "kostur zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kostur magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kostur rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kostur legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kostur unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kostur święty zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kostur święty magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kostur święty rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kostur święty legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kostur święty unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kostur starożytny zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kostur starożytny magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kostur starożytny rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kostur starożytny legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "kostur starożytny unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz święty zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz święty magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz święty rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz święty legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz święty unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz starożytny zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz starożytny magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz starożytny rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz starożytny legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz starożytny unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz (sieczne) zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz (sieczne) magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz (sieczne) rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz (sieczne) legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz (sieczne) unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz (sieczne) święty zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz (sieczne) święty magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz (sieczne) święty rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz (sieczne) święty legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz (sieczne) święty unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz (sieczne) starożytny zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz (sieczne) starożytny magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz (sieczne) starożytny rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz (sieczne) starożytny legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz (sieczne) starożytny unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny święty zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny święty magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny święty rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny święty legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny święty unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny starożytny zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny starożytny magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny starożytny rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny starożytny legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny starożytny unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny (sieczne) zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny (sieczne) magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny (sieczne) rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny (sieczne) legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny (sieczne) unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny (sieczne) święty zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny (sieczne) święty magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny (sieczne) święty rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny (sieczne) święty legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny (sieczne) święty unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny (sieczne) starożytny zwykły",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny (sieczne) starożytny magiczny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny (sieczne) starożytny rzadki",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny (sieczne) starożytny legendarny",
+    "Type": "weapon"
+  },
+  {
+    "Name": "miecz dwuręczny (sieczne) starożytny unikatowy",
+    "Type": "weapon"
+  },
+  {
+    "Name": "różdżka zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "różdżka magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "różdżka rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "różdżka legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "różdżka unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "różdżka święta zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "różdżka święta magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "różdżka święta rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "różdżka święta legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "różdżka święta unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "różdżka starożytna zwykła",
+    "Type": "weapon"
+  },
+  {
+    "Name": "różdżka starożytna magiczna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "różdżka starożytna rzadka",
+    "Type": "weapon"
+  },
+  {
+    "Name": "różdżka starożytna legendarna",
+    "Type": "weapon"
+  },
+  {
+    "Name": "różdżka starożytna unikatowa",
+    "Type": "weapon"
+  },
+  {
+    "Name": "święta Pieczęć Koszmarów",
+    "Type": "sigil"
+  },
+  {
+    "Name": "starożytna Pieczęć Koszmarów",
+    "Type": "sigil"
+  }
+]
