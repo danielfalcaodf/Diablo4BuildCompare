@@ -1,0 +1,23 @@
+{
+  "name": "diablo4-build-compare",
+  "version": "0.0.1",
+  "private": true,
+  "workspaces": [
+    "d4-backend",
+    "d4-frontend"
+  ],
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev",
+    "lint": "turbo run lint",
+    "test": "turbo run test",
+    "format": "turbo run format"
+  },
+  "devDependencies": {
+    "turbo": "latest"
+  },
+  "packageManager": "npm@10.9.2",
+  "engines": {
+    "node": ">=18"
+  }
+}
