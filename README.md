@@ -1,5 +1,7 @@
 # Diablo 4 Build Compare
 
+> 🚧 **Work in Progress** — This project is actively being developed and is not yet complete. Expect missing features, rough edges, and breaking changes. Contributions are very welcome!
+
 A web application that lets you import and compare Diablo IV character builds from [Maxroll.gg](https://maxroll.gg/) side by side.
 
 ## Overview
@@ -134,6 +136,10 @@ The frontend expects the backend at `http://localhost:3000/api/v1`. Update `src/
 
 Swagger UI: `http://localhost:3000/api/v1/swagger`
 
+## Contributing
+
+Contributions are very welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide on how to get started, open issues, and submit pull requests.
+
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE) for details.
