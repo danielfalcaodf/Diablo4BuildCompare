@@ -52,7 +52,47 @@ Diablo4BuildCompare/
 └── docker-compose.yml
 ```
 
-## Getting Started
+## How It Works
+
+### Backend flow
+
+1. The frontend sends a `GET /api/v1/build-compare/maxroll/:id` request with a Maxroll planner ID
+2. `BuildsManagerMaxrollService` fetches the raw planner JSON from `https://planners.maxroll.gg/profiles/d4/:id`
+3. The raw `data` field (string or object) is deserialized into `MaxrollPlannerDataResponseDto`, which contains **profiles** (character set variants) and a flat **items** map
+4. `BuildCompareService` iterates over each profile and builds a `SetDto` by mapping slot numbers to `ItemType` using a switch-case lookup:
+
+   | Slot(s)         | Item Type        |
+   |-----------------|------------------|
+   | 4               | Helm             |
+   | 5               | Chest            |
+   | 6               | Offhand          |
+   | 7, 8, 9, 11, 12 | Weapon           |
+   | 10              | Ranged           |
+   | 13              | Gloves           |
+   | 14              | Pants            |
+   | 15              | Boots            |
+   | 16, 17          | Ring             |
+   | 18              | Amulet           |
+
+5. The result is a `PlannerDto` with the character class, username, and all gear sets (profiles), each holding `SlotItemDto[]` with the resolved item and its type
+
+### Frontend flow
+
+1. The user pastes a Maxroll link or planner ID into the **BuildSearch** component
+2. `BuildCompareService` calls the backend and receives a `PlannerDto`
+3. The user picks a **Set** (profile variant) from the dropdown
+4. `CharacterBuildComponent` maps each `SlotItemDto` to one of the 14 pre-defined gear slots by slot number, marking it `active`
+5. Active slots are rendered by **ItemDetail**, which shows:
+   - Item name, item power, masterworking level (0–12)
+   - Implicits, explicits, greater affixes, tempered affixes
+   - Each affix name is resolved through a `TranslatePipe` → `TranslationService` that loads locale-specific JSON files from `assets/i18n/` at runtime
+   - A green 🟢 or red 🔴 circle indicates whether the affix is present in the target build
+
+### Build comparison
+
+The **BuildCompare** page renders two independent `CharacterBuildComponent` instances (Build A and Build B) in a 2-column grid. Each column has its own Maxroll import, set selector, gear display, stat checklist, and attribute panel.
+
+
 
 ### Prerequisites
 
@@ -72,8 +112,8 @@ docker-compose up --build
 
 ```bash
 cd d4-backend
-yarn install
-yarn start:dev
+npm install
+npm run dev
 ```
 
 **Frontend** (port 4200):
@@ -81,7 +121,7 @@ yarn start:dev
 ```bash
 cd d4-frontend
 npm install
-npm start
+npm run dev
 ```
 
 The frontend expects the backend at `http://localhost:3000/api/v1`. Update `src/environments/environment.ts` if needed.
